@@ -1,0 +1,17 @@
+.container{
+    max-width: 300px;
+    background-color: aliceblue;
+    padding: 20px;
+    margin: auto;
+    border-radius: 5px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+
+}
+
+input{
+    display: block;
+    box-sizing: border-box;
+    padding: 5px;
+    margin-bottom: 10px;
+    width: 100%;
+}
